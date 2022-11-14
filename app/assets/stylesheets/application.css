@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+  @import url(/app/assets/stylesheets/reponse.css);
+
+#link {
+  color:red;
+  text-decoration: none;
+  font-size: 60px;
+}
